@@ -44,3 +44,10 @@ a:visited {
 a:hover {
   color: orange;
 }
+table tr:nth-of-type(even) {
+  background-color: rgb(229, 183, 215);
+}
+table tr:nth-of-type(even) {
+  background-color: rgb(239, 182, 223);
+}
+
